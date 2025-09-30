@@ -1,0 +1,6 @@
+# Minimal pinned dev requirements (adjust as needed)
+flask>=2,<3
+python-dotenv>=0.21,<1
+pillow>=9,<10
+pytest>=7,<8
+requests
